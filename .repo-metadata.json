@@ -1,0 +1,126 @@
+{
+  "repository": {
+    "name": "azure-docs",
+    "organization": "MicrosoftDocs",
+    "description": "Official Microsoft Azure documentation repository",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "published_url": "https://learn.microsoft.com/azure/",
+    "license": "CC-BY-4.0"
+  },
+  "statistics": {
+    "markdown_files": 15097,
+    "yaml_files": 630,
+    "include_files": 1608,
+    "service_areas": 148
+  },
+  "structure": {
+    "primary_directories": [
+      {
+        "path": "articles",
+        "description": "Main documentation content organized by service",
+        "file_types": ["*.md", "*.yml"]
+      },
+      {
+        "path": "includes",
+        "description": "Reusable content snippets",
+        "file_types": ["*.md"]
+      },
+      {
+        "path": "bread",
+        "description": "Breadcrumb navigation configuration",
+        "file_types": ["toc.yml"]
+      },
+      {
+        "path": "redirects",
+        "description": "URL redirection mappings",
+        "file_types": ["*.json"]
+      }
+    ]
+  },
+  "configuration_files": [
+    {
+      "file": "docfx.json",
+      "purpose": "DocFX documentation build configuration"
+    },
+    {
+      "file": ".openpublishing.publish.config.json",
+      "purpose": "Publishing configuration for docs.microsoft.com"
+    },
+    {
+      "file": ".openpublishing.redirection.json",
+      "purpose": "URL redirection rules"
+    },
+    {
+      "file": ".markdownlint.json",
+      "purpose": "Markdown linting rules"
+    }
+  ],
+  "content_categories": {
+    "ai_machine_learning": [
+      "OpenAI",
+      "AI Services",
+      "Machine Learning",
+      "Cognitive Services"
+    ],
+    "analytics": [
+      "Synapse Analytics",
+      "Data Factory",
+      "HDInsight",
+      "Stream Analytics"
+    ],
+    "compute": [
+      "Virtual Machines",
+      "App Service",
+      "Functions",
+      "Container Apps"
+    ],
+    "containers": [
+      "Container Apps",
+      "Kubernetes Service",
+      "Container Registry"
+    ],
+    "databases": [
+      "SQL Database",
+      "Cosmos DB",
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "networking": [
+      "Virtual Network",
+      "Load Balancer",
+      "VPN Gateway",
+      "ExpressRoute",
+      "Front Door"
+    ],
+    "security": [
+      "Sentinel",
+      "Security Center",
+      "Key Vault",
+      "Firewall",
+      "DDoS Protection"
+    ],
+    "storage": [
+      "Storage Accounts",
+      "Blob Storage",
+      "File Storage",
+      "Data Lake Storage"
+    ],
+    "iot": [
+      "IoT Hub",
+      "IoT Central",
+      "IoT Edge",
+      "Digital Twins"
+    ],
+    "integration": [
+      "Logic Apps",
+      "Service Bus",
+      "Event Grid",
+      "API Management"
+    ]
+  },
+  "metadata": {
+    "created": "2025-12-10",
+    "purpose": "Repository indexing for documentation discovery and AI navigation",
+    "format_version": "1.0"
+  }
+}

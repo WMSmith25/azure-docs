@@ -1,0 +1,1041 @@
+{
+  "total_services": 148,
+  "services": [
+    {
+      "directory": "active-directory-b2c",
+      "path": "articles/active-directory-b2c",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 293
+    },
+    {
+      "directory": "analysis-services",
+      "path": "articles/analysis-services",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 2
+    },
+    {
+      "directory": "api-center",
+      "path": "articles/api-center",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 35
+    },
+    {
+      "directory": "api-management",
+      "path": "articles/api-management",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 258
+    },
+    {
+      "directory": "app-service",
+      "path": "articles/app-service",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 233
+    },
+    {
+      "directory": "app-testing",
+      "path": "articles/app-testing",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 3
+    },
+    {
+      "directory": "application-gateway",
+      "path": "articles/application-gateway",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 141
+    },
+    {
+      "directory": "automanage",
+      "path": "articles/automanage",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 30
+    },
+    {
+      "directory": "automation",
+      "path": "articles/automation",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 89
+    },
+    {
+      "directory": "avere-vfxt",
+      "path": "articles/avere-vfxt",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 22
+    },
+    {
+      "directory": "azure-app-configuration",
+      "path": "articles/azure-app-configuration",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 154
+    },
+    {
+      "directory": "azure-boost",
+      "path": "articles/azure-boost",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 1
+    },
+    {
+      "directory": "azure-cache-for-redis",
+      "path": "articles/azure-cache-for-redis",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 61
+    },
+    {
+      "directory": "azure-change-tracking-inventory",
+      "path": "articles/azure-change-tracking-inventory",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 11
+    },
+    {
+      "directory": "azure-compute-fleet",
+      "path": "articles/azure-compute-fleet",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 11
+    },
+    {
+      "directory": "azure-edge-hardware-center",
+      "path": "articles/azure-edge-hardware-center",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 9
+    },
+    {
+      "directory": "azure-fluid-relay",
+      "path": "articles/azure-fluid-relay",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 3
+    },
+    {
+      "directory": "azure-functions",
+      "path": "articles/azure-functions",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 249
+    },
+    {
+      "directory": "azure-government",
+      "path": "articles/azure-government",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 37
+    },
+    {
+      "directory": "azure-health-insights",
+      "path": "articles/azure-health-insights",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 8
+    },
+    {
+      "directory": "azure-large-instances",
+      "path": "articles/azure-large-instances",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 9
+    },
+    {
+      "directory": "azure-maps",
+      "path": "articles/azure-maps",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 150
+    },
+    {
+      "directory": "azure-netapp-files",
+      "path": "articles/azure-netapp-files",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 218
+    },
+    {
+      "directory": "azure-relay",
+      "path": "articles/azure-relay",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 30
+    },
+    {
+      "directory": "azure-resource-manager",
+      "path": "articles/azure-resource-manager",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 1
+    },
+    {
+      "directory": "azure-signalr",
+      "path": "articles/azure-signalr",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 71
+    },
+    {
+      "directory": "azure-sql-edge",
+      "path": "articles/azure-sql-edge",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 0
+    },
+    {
+      "directory": "azure-vmware",
+      "path": "articles/azure-vmware",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 138
+    },
+    {
+      "directory": "azure-web-pubsub",
+      "path": "articles/azure-web-pubsub",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 121
+    },
+    {
+      "directory": "backup",
+      "path": "articles/backup",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 388
+    },
+    {
+      "directory": "baremetal-infrastructure",
+      "path": "articles/baremetal-infrastructure",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 5
+    },
+    {
+      "directory": "bastion",
+      "path": "articles/bastion",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 44
+    },
+    {
+      "directory": "batch",
+      "path": "articles/batch",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 112
+    },
+    {
+      "directory": "business-process-tracking",
+      "path": "articles/business-process-tracking",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 8
+    },
+    {
+      "directory": "cdn",
+      "path": "articles/cdn",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 49
+    },
+    {
+      "directory": "certification",
+      "path": "articles/certification",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 7
+    },
+    {
+      "directory": "cloud-services-extended-support",
+      "path": "articles/cloud-services-extended-support",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 49
+    },
+    {
+      "directory": "cloud-shell",
+      "path": "articles/cloud-shell",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 12
+    },
+    {
+      "directory": "communication-services",
+      "path": "articles/communication-services",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 6
+    },
+    {
+      "directory": "communications-gateway",
+      "path": "articles/communications-gateway",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 1
+    },
+    {
+      "directory": "compliance",
+      "path": "articles/compliance",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 1
+    },
+    {
+      "directory": "confidential-computing",
+      "path": "articles/confidential-computing",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 61
+    },
+    {
+      "directory": "connectors",
+      "path": "articles/connectors",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 35
+    },
+    {
+      "directory": "container-apps",
+      "path": "articles/container-apps",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 196
+    },
+    {
+      "directory": "containers",
+      "path": "articles/containers",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 1
+    },
+    {
+      "directory": "cost-management-billing",
+      "path": "articles/cost-management-billing",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 8
+    },
+    {
+      "directory": "cyclecloud",
+      "path": "articles/cyclecloud",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 31
+    },
+    {
+      "directory": "data-factory",
+      "path": "articles/data-factory",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 538
+    },
+    {
+      "directory": "data-manager-for-agri",
+      "path": "articles/data-manager-for-agri",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 30
+    },
+    {
+      "directory": "data-share",
+      "path": "articles/data-share",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 27
+    },
+    {
+      "directory": "databox",
+      "path": "articles/databox",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 81
+    },
+    {
+      "directory": "databox-gateway",
+      "path": "articles/databox-gateway",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 29
+    },
+    {
+      "directory": "databox-online",
+      "path": "articles/databox-online",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 217
+    },
+    {
+      "directory": "ddos-protection",
+      "path": "articles/ddos-protection",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 35
+    },
+    {
+      "directory": "defender-for-iot",
+      "path": "articles/defender-for-iot",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 1
+    },
+    {
+      "directory": "deployment-environments",
+      "path": "articles/deployment-environments",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 34
+    },
+    {
+      "directory": "dev-box",
+      "path": "articles/dev-box",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 65
+    },
+    {
+      "directory": "devtest",
+      "path": "articles/devtest",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 0
+    },
+    {
+      "directory": "devtest-labs",
+      "path": "articles/devtest-labs",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 98
+    },
+    {
+      "directory": "digital-twins",
+      "path": "articles/digital-twins",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 69
+    },
+    {
+      "directory": "dns",
+      "path": "articles/dns",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 76
+    },
+    {
+      "directory": "education-hub",
+      "path": "articles/education-hub",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 8
+    },
+    {
+      "directory": "energy-data-services",
+      "path": "articles/energy-data-services",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 53
+    },
+    {
+      "directory": "event-grid",
+      "path": "articles/event-grid",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 237
+    },
+    {
+      "directory": "event-hubs",
+      "path": "articles/event-hubs",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 113
+    },
+    {
+      "directory": "expressroute",
+      "path": "articles/expressroute",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 99
+    },
+    {
+      "directory": "extended-zones",
+      "path": "articles/extended-zones",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 18
+    },
+    {
+      "directory": "external-attack-surface-management",
+      "path": "articles/external-attack-surface-management",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 24
+    },
+    {
+      "directory": "firewall",
+      "path": "articles/firewall",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 89
+    },
+    {
+      "directory": "firewall-manager",
+      "path": "articles/firewall-manager",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 29
+    },
+    {
+      "directory": "firmware-analysis",
+      "path": "articles/firmware-analysis",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 18
+    },
+    {
+      "directory": "frontdoor",
+      "path": "articles/frontdoor",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 83
+    },
+    {
+      "directory": "governance",
+      "path": "articles/governance",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 1
+    },
+    {
+      "directory": "hdinsight",
+      "path": "articles/hdinsight",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 170
+    },
+    {
+      "directory": "healthcare-apis",
+      "path": "articles/healthcare-apis",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 31
+    },
+    {
+      "directory": "high-performance-computing",
+      "path": "articles/high-performance-computing",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 22
+    },
+    {
+      "directory": "hpc-cache",
+      "path": "articles/hpc-cache",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 36
+    },
+    {
+      "directory": "import-export",
+      "path": "articles/import-export",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 17
+    },
+    {
+      "directory": "integration-environments",
+      "path": "articles/integration-environments",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 7
+    },
+    {
+      "directory": "internet-peering",
+      "path": "articles/internet-peering",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 26
+    },
+    {
+      "directory": "iot",
+      "path": "articles/iot",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 43
+    },
+    {
+      "directory": "iot-central",
+      "path": "articles/iot-central",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 3
+    },
+    {
+      "directory": "iot-dps",
+      "path": "articles/iot-dps",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 53
+    },
+    {
+      "directory": "iot-edge",
+      "path": "articles/iot-edge",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 101
+    },
+    {
+      "directory": "iot-hub",
+      "path": "articles/iot-hub",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 107
+    },
+    {
+      "directory": "iot-hub-device-update",
+      "path": "articles/iot-hub-device-update",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 54
+    },
+    {
+      "directory": "iot-operations",
+      "path": "articles/iot-operations",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 5
+    },
+    {
+      "directory": "lab-services",
+      "path": "articles/lab-services",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 107
+    },
+    {
+      "directory": "load-balancer",
+      "path": "articles/load-balancer",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 98
+    },
+    {
+      "directory": "logic-apps",
+      "path": "articles/logic-apps",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 160
+    },
+    {
+      "directory": "managed-ccf",
+      "path": "articles/managed-ccf",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 0
+    },
+    {
+      "directory": "managed-grafana",
+      "path": "articles/managed-grafana",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 44
+    },
+    {
+      "directory": "media",
+      "path": "articles/media",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 0
+    },
+    {
+      "directory": "messaging-services",
+      "path": "articles/messaging-services",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 1
+    },
+    {
+      "directory": "migrate",
+      "path": "articles/migrate",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 188
+    },
+    {
+      "directory": "migration",
+      "path": "articles/migration",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 12
+    },
+    {
+      "directory": "nat-gateway",
+      "path": "articles/nat-gateway",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 30
+    },
+    {
+      "directory": "network-function-manager",
+      "path": "articles/network-function-manager",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 10
+    },
+    {
+      "directory": "network-watcher",
+      "path": "articles/network-watcher",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 68
+    },
+    {
+      "directory": "networking",
+      "path": "articles/networking",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 20
+    },
+    {
+      "directory": "notification-hubs",
+      "path": "articles/notification-hubs",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 71
+    },
+    {
+      "directory": "operator-5g-core",
+      "path": "articles/operator-5g-core",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 0
+    },
+    {
+      "directory": "operator-call-protection",
+      "path": "articles/operator-call-protection",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 0
+    },
+    {
+      "directory": "operator-insights",
+      "path": "articles/operator-insights",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 2
+    },
+    {
+      "directory": "operator-service-manager",
+      "path": "articles/operator-service-manager",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 50
+    },
+    {
+      "directory": "oracle",
+      "path": "articles/oracle",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 4
+    },
+    {
+      "directory": "partner-solutions",
+      "path": "articles/partner-solutions",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 5
+    },
+    {
+      "directory": "peering-service",
+      "path": "articles/peering-service",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 13
+    },
+    {
+      "directory": "planetary-computer",
+      "path": "articles/planetary-computer",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 43
+    },
+    {
+      "directory": "playwright-testing",
+      "path": "articles/playwright-testing",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 25
+    },
+    {
+      "directory": "private-5g-core",
+      "path": "articles/private-5g-core",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 0
+    },
+    {
+      "directory": "private-link",
+      "path": "articles/private-link",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 51
+    },
+    {
+      "directory": "private-multi-access-edge-compute-mec",
+      "path": "articles/private-multi-access-edge-compute-mec",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 0
+    },
+    {
+      "directory": "redis",
+      "path": "articles/redis",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 59
+    },
+    {
+      "directory": "reliability",
+      "path": "articles/reliability",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 89
+    },
+    {
+      "directory": "resiliency",
+      "path": "articles/resiliency",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 22
+    },
+    {
+      "directory": "resource-mover",
+      "path": "articles/resource-mover",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 20
+    },
+    {
+      "directory": "role-based-access-control",
+      "path": "articles/role-based-access-control",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 69
+    },
+    {
+      "directory": "route-server",
+      "path": "articles/route-server",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 24
+    },
+    {
+      "directory": "sap",
+      "path": "articles/sap",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 4
+    },
+    {
+      "directory": "scheduler",
+      "path": "articles/scheduler",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 3
+    },
+    {
+      "directory": "security",
+      "path": "articles/security",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 2
+    },
+    {
+      "directory": "sentinel",
+      "path": "articles/sentinel",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 275
+    },
+    {
+      "directory": "service-bus-messaging",
+      "path": "articles/service-bus-messaging",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 123
+    },
+    {
+      "directory": "service-connector",
+      "path": "articles/service-connector",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 66
+    },
+    {
+      "directory": "signups",
+      "path": "articles/signups",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 5
+    },
+    {
+      "directory": "site-recovery",
+      "path": "articles/site-recovery",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 203
+    },
+    {
+      "directory": "site-reliability-engineering",
+      "path": "articles/site-reliability-engineering",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 1
+    },
+    {
+      "directory": "spring-apps",
+      "path": "articles/spring-apps",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 2
+    },
+    {
+      "directory": "sre-agent",
+      "path": "articles/sre-agent",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 24
+    },
+    {
+      "directory": "static-web-apps",
+      "path": "articles/static-web-apps",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 84
+    },
+    {
+      "directory": "storage",
+      "path": "articles/storage",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 2
+    },
+    {
+      "directory": "storage-actions",
+      "path": "articles/storage-actions",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 3
+    },
+    {
+      "directory": "storage-discovery",
+      "path": "articles/storage-discovery",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 13
+    },
+    {
+      "directory": "storage-mover",
+      "path": "articles/storage-mover",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 24
+    },
+    {
+      "directory": "storsimple",
+      "path": "articles/storsimple",
+      "has_index": false,
+      "has_toc": false,
+      "file_count": 1
+    },
+    {
+      "directory": "stream-analytics",
+      "path": "articles/stream-analytics",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 174
+    },
+    {
+      "directory": "synapse-analytics",
+      "path": "articles/synapse-analytics",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 50
+    },
+    {
+      "directory": "time-series-insights",
+      "path": "articles/time-series-insights",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 2
+    },
+    {
+      "directory": "traffic-manager",
+      "path": "articles/traffic-manager",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 46
+    },
+    {
+      "directory": "trusted-signing",
+      "path": "articles/trusted-signing",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 17
+    },
+    {
+      "directory": "update-manager",
+      "path": "articles/update-manager",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 51
+    },
+    {
+      "directory": "virtual-network",
+      "path": "articles/virtual-network",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 86
+    },
+    {
+      "directory": "virtual-network-manager",
+      "path": "articles/virtual-network-manager",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 54
+    },
+    {
+      "directory": "virtual-wan",
+      "path": "articles/virtual-wan",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 133
+    },
+    {
+      "directory": "vmware-cloudsimple",
+      "path": "articles/vmware-cloudsimple",
+      "has_index": false,
+      "has_toc": true,
+      "file_count": 2
+    },
+    {
+      "directory": "vpn-gateway",
+      "path": "articles/vpn-gateway",
+      "has_index": true,
+      "has_toc": false,
+      "file_count": 129
+    },
+    {
+      "directory": "web-application-firewall",
+      "path": "articles/web-application-firewall",
+      "has_index": true,
+      "has_toc": true,
+      "file_count": 10
+    }
+  ]
+}
