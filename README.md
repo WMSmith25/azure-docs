@@ -2,6 +2,14 @@
 
 Welcome to the open-source [documentation](https://learn.microsoft.com/azure/?product=popular) of [Microsoft Azure](https://azure.microsoft.com). Please review this README file to understand how you can assist in contributing to the Microsoft Azure documentation. 
 
+## Repository Index
+
+For a comprehensive overview of this repository's structure and content, see the [Repository Index](REPO_INDEX.md), which provides:
+- Complete catalog of all 148 Azure service documentation areas
+- Repository statistics and structure
+- Content organization and navigation guide
+- Machine-readable metadata files for programmatic access
+
 ## Getting Started
 
 Contributing to open source is more than just providing updates. It's also about letting us know when there is an issue. Read our [Contributing guidance](CONTRIBUTING.md) to find out more.
