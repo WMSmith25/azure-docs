@@ -5,6 +5,7 @@ ms.topic: how-to
 ms.service: azure-migrate
 ms.date: 09/09/2024
 ms.reviewer: v-uhabiba
+monikerRange: migrate-classic
 ms.custom:
   - engagement-fy25
   - sfi-image-nochange
@@ -121,7 +122,8 @@ Now create a group for assessment.
 
 
 > [!NOTE]
-> Groups for which you want to visualize dependencies shouldn't contain more than 10 servers. If you have more than 10 servers, split them into smaller groups.
+> - Groups for which you want to visualize dependencies shouldn't contain more than 10 servers. If you have more than 10 servers, split them into smaller groups.
+> - 'Contributor' access is required on the Workspace's Resource Group.
 
 1. In **Azure Migrate: Discovery and assessment**, select **Discovered servers**.
 2. In the **Dependencies** column, select **View dependencies** for each server you want to review.

@@ -4,10 +4,9 @@ description: Understand how to use the warmup trigger in Azure Functions.
 keywords: azure functions, functions, event processing, warmup, cold start, premium, dynamic compute, serverless architecture
 ms.service: azure-functions
 ms.topic: reference
-ms.devlang: csharp
 # ms.devlang: csharp, java, javascript, python
 ms.custom: devx-track-csharp, devx-track-extended-java, devx-track-js, devx-track-python, devx-track-ts
-ms.date: 09/04/2023
+ms.date: 02/10/2026
 zone_pivot_groups: programming-languages-set-functions
 ---
 
@@ -26,7 +25,19 @@ The following considerations apply when using a warmup trigger:
 * Dependencies created by warmup trigger should be shared with other functions in your app. To learn more, see [Static clients](manage-connections.md#static-clients).
 * If the [built-in authentication](../app-service/overview-authentication-authorization.md) (also known as Easy Auth) is used, [HTTPS Only](../app-service/configure-ssl-bindings.md#enforce-https) should be enabled for the warmup trigger to get invoked.
 
+::: zone pivot="programming-language-csharp"  
+## Install extension
+
+You must install this [NuGet package](https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker.Extensions.Warmup) when your C# class library function app runs in the [isolated worker process](dotnet-isolated-process-guide.md). When your C# app [runs in-process with the host](functions-dotnet-class-library.md), you don't need to install an extra package. 
+
+[!INCLUDE [functions-in-process-model-retirement-note](../../includes/functions-in-process-model-retirement-note.md)]  
+::: zone-end  
+
 ## Example
+
+::: zone pivot="programming-language-go"
+Go support isn't currently available for this binding.
+::: zone-end
 
 ::: zone pivot="programming-language-csharp"
 
@@ -40,7 +51,7 @@ The following considerations apply when using a warmup trigger:
 
 The following example shows a [C# function](dotnet-isolated-process-guide.md) that runs on each new instance when added to your app. 
 
-:::code language="csharp" source="~/azure-functions-dotnet-worker/samples/Extensions/Warmup/Warmup.cs" range="4-18":::
+<!--- :::code language="csharp" source="~/azure-functions-dotnet-worker/samples/Extensions/Warmup/Warmup.cs" range="4-18"::: --->
 
 # [In-process model](#tab/in-process)
 
@@ -90,7 +101,7 @@ public void warmup( @WarmupTrigger Object warmupContext, ExecutionContext contex
 
 The following example shows a [JavaScript function](functions-reference-node.md) with a warmup trigger that runs on each new instance when added to your app:
 
-:::code language="javascript" source="~/azure-functions-nodejs-v4/js/src/functions/warmupTrigger.js" :::
+<!--- :::code language="javascript" source="~/azure-functions-nodejs-v4/js/src/functions/warmupTrigger.js" ::: --->
 
 # [Model v3](#tab/nodejs-v3)
 
@@ -128,7 +139,7 @@ module.exports = async function (warmupContext, context) {
 
 The following example shows a [TypeScript function](functions-reference-node.md) with a warmup trigger that runs on each new instance when added to your app:
 
-:::code language="typescript" source="~/azure-functions-nodejs-v4/ts/src/functions/warmupTrigger1.ts" :::
+<!--- :::code language="typescript" source="~/azure-functions-nodejs-v4/ts/src/functions/warmupTrigger1.ts" ::: --->
 
 # [Model v3](#tab/nodejs-v3)
 TypeScript samples aren't documented for model v3.

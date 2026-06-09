@@ -2,7 +2,6 @@
 title: Azure Change Tracking and Inventory Overview by Using Azure Monitor Agent
 description: Learn about the Change Tracking and Inventory feature by using the Azure Monitor Agent, which helps you identify software and Microsoft service changes in your environment.
 #customer intent: As a customer, I want to evaluate the compatibility of Azure Change Tracking and Inventory with my existing infrastructure so that I can ensure seamless integration.
-services: automation
 ms.date: 12/03/2025
 ms.topic: overview
 ms.service: azure-change-tracking-inventory
@@ -68,6 +67,10 @@ With Change Tracking and Inventory, you can view the contents of a Windows or Li
 ## Track registry keys
 
 Change Tracking and Inventory allows monitoring of changes to Windows registry keys. When you use monitoring, you can pinpoint extensibility points where non-Microsoft code and malware can activate. The following table lists preconfigured (but not enabled) registry keys. To track these keys, you must enable each one.
+
+>[!Note]
+>A registry key is a container in the Windows Registry that works like a folder in a file system. It organizes configuration settings and data for hardware, software, and users. The  keys contain registry values, like files, and subkeys.
+
 
 > [!div class="mx-tdBreakAll"]
 > |Registry key | Purpose |

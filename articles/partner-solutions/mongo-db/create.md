@@ -1,6 +1,8 @@
 ---
 title: "Quickstart: Get Started with MongoDB Atlas"
 description: Learn how to create a MongoDB Atlas resource in the Azure portal.
+author: vpriyanshi
+ms.author: priyverma
 ms.topic: quickstart
 ms.date: 12/11/2025
 ---
@@ -37,7 +39,7 @@ Red asterisks identify required settings. Enter values for each required setting
     | Setting            | Value                                     |
     |--------------------|-------------------------------------------|
     | **Resource name**      | Specify a unique name for the resource.   |
-    | **Region**             | Select a region to deploy your resource.  |
+    | **Region**             | Select the Azure region where this resource will be deployed. This selection is separate from the Atlas cluster region, which you will choose later during cluster setup. |
 
 1. **MongoDB Atlas Organization details:**
 
